@@ -207,3 +207,7 @@ function salario(){
 
 // salario();
 
+function developer2(){
+  console.log('developer2');
+  
+}
