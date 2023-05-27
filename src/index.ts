@@ -209,5 +209,8 @@ function salario(){
 
 function developer2(){
   console.log('developer2');
+
+  console.log('comentario para testear el stash');
+  
   
 }
